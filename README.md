@@ -24,10 +24,8 @@ Desenvolvido por Gustavo Medeiros. Esse projeto foi desenvolvido para aplicar co
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-
+- JavaScript
+  
 ## 💻 Projeto
 
 Projeto desenvolvido para ser uma experiência ao usuário no qual pode calcular a gorjeta pela porcetagem e dividir a gorjeta entre as pessoas da mesa e dar uma nota para o garçom, indo de Incrivel a Precisamos melhorar. 
